@@ -1,0 +1,26 @@
+.banner{
+   font-family: 'Poppins', sans-serif;
+    display: flex;
+    background-image: url(Frame\ 56.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-left: 0;
+}
+.image{
+    width:50%;
+    margin: 20px;
+}
+.resume
+    {
+    color: white;
+    text-decoration: none;
+    border:none;
+    background-image: linear-gradient(red,darkred);
+    border-radius: 25px;
+    padding:10px;
+}
+.project img{
+     height: 250px;
+    width: 350px;
+   
+}
